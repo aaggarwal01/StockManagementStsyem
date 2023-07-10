@@ -1,0 +1,12 @@
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/service/RegisterServiceImpl.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/exception/RecordNotFoundException.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/repo/RegisterRepo.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/controller/InventoryController.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/Entity/Register.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/repo/InventoryRepository.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/Entity/Inventory.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/service/InventoryServiceImpl.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/service/RegisterService.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/service/InventoryService.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/StockManagementSystemApplication.java
+/Users/anilbhusal/Desktop/Spring/StockManagementSystem/src/main/java/com/takeo/controller/RegisterController.java
